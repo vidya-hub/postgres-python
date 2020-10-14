@@ -145,7 +145,7 @@ try:
    # delete_table(3)
    # update_multiple_rows([("apple",1),("nokia",5),("oneplus",3),("motorola",4),])
    # delete_multiple_rows([(1,),(4,)])
-   insert_multiple([(1,"apple",100000),(3,"poco",10000),(4,"motorola",1000),(6,"realme",100),])
+   # insert_multiple([(1,"apple",100000),(3,"poco",10000),(4,"motorola",1000),(6,"realme",100),])
 
 
 
